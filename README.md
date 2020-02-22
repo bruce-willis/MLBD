@@ -24,7 +24,7 @@ Materials for "Machine Learning on Big Data" course
 
 #### 4. [Distributed ML Introduction](/distributed_ml_intro)
 >  <ins><i>Keywords:</i></ins> Stochastic Gradient Descent, Data/Model Parallelism, General Purpose Distributed Computing(MapReduce, MR SGD, SparkNet, MLlib), Natively Distributed ML Systems (Parameter Server, DistBelief, TensorFlow, AllReduce, Horovod)
-#### 5. Categorical Features in Large Scale ML
+#### 5. [Categorical Features in Large Scale ML](/sgd_logreg_nn)
 >  <ins><i>Keywords:</i></ins> One-hot encoding, Cross features, Factorization Machines (FM, FFM), Neural Networks (Deep Crossing, Deep & Cross, DeepFM)
 #### 6. Gradient Boosting Decision Tree
 >  <ins><i>Keywords:</i></ins> Categorical features (Naive Bayes, Mean Target Encoding), XGBoost, CatBoost
@@ -63,7 +63,7 @@ Materials for "Machine Learning on Big Data" course
 
 #### Deadlines
 
-* PR с выполненным заданием должен быть отправлен на проверку не позднее времени начала занятия, следующего за занятием, на котором было выдано задание.
+* PR с выполненным заданием должен быть отправлен на проверку не позднее чем через 8 дней после того как было выдано задание.
 * По прошествии дедлайна, в рамках PR можно только исправлять замечания, но не отправлять на проверку новые задачи.
 
 ## Домашние задания
